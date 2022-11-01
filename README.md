@@ -8,5 +8,5 @@
 `cd FUCKING`
 
 
-`python FUCKING.py`
+`python LOL_AKING.py`
 
